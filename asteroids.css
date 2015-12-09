@@ -1,0 +1,20 @@
+html, body, canvas {
+  padding: 0px;
+  margin: 0px;
+}
+
+canvas {
+   background: url('background.jpg');
+   background-size:cover;
+}
+
+.win-message {
+  background: wheat;
+  border: brown 1px solid;
+  opacity: 50%;
+  padding: 50px;
+  display: hidden;
+  margin: auto;
+  top: 500px;
+  float: right;
+}
